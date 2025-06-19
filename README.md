@@ -47,6 +47,6 @@
 
 ## 실행 화면
 
-(https://github.com/user-attachments/assets/512d675d-ce8f-4f94-bfc8-8e3582db4f83)
+<img src ="https://github.com/user-attachments/assets/512d675d-ce8f-4f94-bfc8-8e3582db4f83.png" width = "200" height = "400"/>
 
 
