@@ -46,7 +46,13 @@
   
 
 ## 실행 화면
+<p align ="center">
+<img src ="Sumbab/Simulator Screenshot - iPhone 14 Pro - 2025-06-19 at 11.25.44.png" width = "200" height = "400"/> 
+<img src ="Sumbab/Simulator Screenshot - iPhone 14 Pro - 2025-06-19 at 11.25.50.png" width ="200" height="400"/>
+<img src ="Sumbab/Simulator Screenshot - iPhone 14 Pro - 2025-06-19 at 11.26.15.png" width ="200" height="400"/>
+<img src ="Sumbab/Simulator Screenshot - iPhone 14 Pro - 2025-06-19 at 11.26.28.png" width ="200" height="400"/>
+<img src ="Sumbab/Simulator Screenshot - iPhone 14 Pro - 2025-06-19 at 11.26.55.png" width ="200" height="400"/>
 
-<img src ="Sumbab/Simulator Screenshot - iPhone 14 Pro - 2025-06-19 at 11.25.44.png" width = "200" height = "400"/>
+
 
 
